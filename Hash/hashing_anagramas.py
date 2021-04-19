@@ -1,5 +1,7 @@
 #hashing de uma string usando valores ordnais com pesos
 #para utilizar em anagramads podemos utilizar o valor da 'pos' do caractere como peso na soma de cada item
+#Matheus Moreira dos Santos
+#matheusms.eng@gmail.com
 
 def hash(astring, tablesize):#recebe valor de uma string e o tamanho da tabela
     sum = 0

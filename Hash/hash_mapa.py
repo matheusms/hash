@@ -1,5 +1,7 @@
 #criando tabela hash do tipo abstrato, utilizando dicionário
 #Permite quando há colisão de key ele substitui o data
+#Matheus Moreira dos Santos
+#matheusms.eng@gmail.com
 
 class HashTable:
     def __init__(self):

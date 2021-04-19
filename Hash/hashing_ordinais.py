@@ -1,5 +1,7 @@
 #hashing de uma string usando valores ordnais
 # criando um espalhamento de hashing através da soma dos caracteres ordenados da string
+#Matheus Moreira dos Santos
+#matheusms.eng@gmail.com
 
 def hash(astring, tablesize):#recebe valor de uma string e o tamanho da tabela
     sum = 0

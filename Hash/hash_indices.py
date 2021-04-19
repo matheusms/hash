@@ -1,4 +1,7 @@
 #hashing simples de expalhamento por indices
+#Matheus Moreira dos Santos
+#matheusms.eng@gmail.com
+
 def hash(indice, tablesize):#recebe valor do indice e o tamanho da tabela
     #a posição na tabela é o resto da divisão do indice pelo tamanho da tabela
     return indice%tablesize
